@@ -29,3 +29,6 @@ This project was developed to help students and job seekers analyze their resume
 
 ## Author
 Angala Dharshini
+## Output Screenshot
+
+![Screenshot](output.png)
